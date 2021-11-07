@@ -26,6 +26,6 @@ https://colab.research.google.com/github/nlptown/nlp-notebooks/blob/master/Multi
 accuracy на Kaggle - 0.81116.
 
 
-#### Анализ и исправление кода
+### Анализ и исправление кода
 Отчет можно посмотреть здесь: [Отчет по ошибкам](errors_report.md).
 
