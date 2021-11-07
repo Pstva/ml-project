@@ -25,7 +25,15 @@ https://colab.research.google.com/github/nlptown/nlp-notebooks/blob/master/Multi
 
 accuracy на Kaggle - 0.81116.
 
+### Структура репозитория
+
++ data - тренировочные и тестовые данные
++ notebooks - ноутбук с аналогичным кодом, как в src/
++ reports - отчеты
++ src - скрипт с построением модели и предсказанием для тестовых данных
++ src/predictions - предсказания модели
+
 
 ### Анализ и исправление кода
-Отчет можно посмотреть здесь: [Отчет по ошибкам](errors_report.md).
+Отчет можно посмотреть здесь: [Отчет по ошибкам](reports/errors_report.md).
 
