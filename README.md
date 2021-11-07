@@ -1,9 +1,10 @@
 ## ML Project: Amazon reviews sentiment analysis
-####Multilingual text classification with XLM-Roberta
+### Multilingual text classification with XLM-Roberta
 
 Репозиторий с проектом для курса по Инженерным практикам ВШЭ.
 
 Код был написан в рамках соревнования в решении задачи анализа тональности отзывов в качестве домашнего задания на курсе по NLP от ФКН ВШЭ в 2020.
+
 https://www.kaggle.com/c/amazon-reviews-sentiment-2020-hse/leaderboard
 
 #### Описание соревнования
@@ -14,6 +15,7 @@ https://www.kaggle.com/c/amazon-reviews-sentiment-2020-hse/leaderboard
 В обучающей выборке тексты на английском языке, в тестовой - на французском, задача -  обучить модель, которая без дообучения сможет работать с новым для нее языком (задача переноса обучения).
 
 Решение основано на семинаре курса по мультиязычным моделям:
+
 https://colab.research.google.com/github/nlptown/nlp-notebooks/blob/master/Multilingual%20text%20classification%20with%20BERT.ipynb
 
 
