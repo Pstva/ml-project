@@ -23,7 +23,7 @@ https://colab.research.google.com/github/nlptown/nlp-notebooks/blob/master/Multi
 
 Использована предобученная мультиязычная модель "xlm-roberta-base", дообучена на 90% тренировочных данных на английском языке на 3 эпохах.
 
-accuracy на Kaggle - 0.81116.
+accuracy на Kaggle: 0.81116.
 
 ### Структура репозитория
 

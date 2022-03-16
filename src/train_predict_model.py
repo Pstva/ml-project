@@ -22,6 +22,7 @@ from collections import defaultdict
 en = pd.read_csv("data/eng_train_data.csv")
 fr = pd.read_csv("data/fr_text.csv")
 
+
 # Классы - 0/1/2
 target_names = list(set(en["class"]))
 
